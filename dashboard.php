@@ -339,15 +339,15 @@
                             </div>
                         </a>
                         <div class="dropdown-menu dropdown-menu-end">
-                        <a class="dropdown-item" href="pages-profile.html"><i class="ti ti-user font-16 me-1 align-text-bottom"></i> Profile</a>
-                        <a class="dropdown-item" href="crypto-settings.html"><i class="ti ti-settings font-16 me-1 align-text-bottom"></i> Settings</a>
+                        <a class="dropdown-item" href="pages-profile.html"><i class='bx bxs-user'></i> Profile</a>
+                        <a class="dropdown-item" href="crypto-settings.html"><i class='bx bx-cog'></i> Settings</a>
                         <div class="dropdown-divider mb-0"></div>
-                        <a class="dropdown-item" href="auth-login.html"><i class="ti ti-power font-16 me-1 align-text-bottom"></i> Logout</a>
+                        <a class="dropdown-item" href="auth-login.html"><i class='bx bx-power-off' ></i> Logout</a>
                     </div>
                     </li><!--end topbar-profile-->
                     <li class="notification-list">
                         <a class="nav-link arrow-none nav-icon offcanvas-btn" href="#" data-bs-toggle="offcanvas" data-bs-target="#Appearance" role="button" aria-controls="Rightbar">
-                            <i class="ti ti-settings ti-spin"></i>
+                            <i class='bx bx-cog bx-spin' ></i>
                         </a>
                     </li>   
                 </ul><!--end topbar-nav-->
@@ -355,7 +355,7 @@
                 <ul class="list-unstyled topbar-nav mb-0">                        
                     <li>
                         <button class="nav-link button-menu-mobile nav-icon" id="togglemenu">
-                            <i class="ti ti-menu-2"></i>
+                            <i class='bx bx-menu' ></i>
                         </button>
                     </li> 
                     <li class="hide-phone app-search">

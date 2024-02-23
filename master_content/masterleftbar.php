@@ -434,7 +434,7 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="#sidebarEmailTemplates" data-bs-toggle="collapse" role="button"
                                     aria-expanded="false" aria-controls="sidebarEmailTemplates">
-                                    <i class="ti ti-target menu-icon"></i>
+                                    <i class='bx bx-outline'></i>
                                     <span>Email Templates</span>
                                 </a>
                                 <div class="collapse " id="sidebarEmailTemplates">
@@ -455,7 +455,7 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="#sidebarPages" data-bs-toggle="collapse" role="button"
                                     aria-expanded="false" aria-controls="sidebarPages">
-                                    <i class="ti ti-file-diff menu-icon"></i>
+                                    <i class='bx bx-file-find' ></i>
                                     <span>Pages</span>
                                 </a>
                                 <div class="collapse " id="sidebarPages">
