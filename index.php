@@ -97,7 +97,7 @@
 <div class="content">
 <div class="details">
 <div class="image">
-<div class="main" data-img-url="img/about/1.jpg"></div>
+<div class="main" data-img-url="img/about/10.jpg"></div>
 </div>
 <div class="text">
 <h3 class="stroke">Harsh</h3>
@@ -322,7 +322,7 @@
 <div class="list_inner">
 <div class="image">
 <img src="img/thumbs/1-1.jpg" alt />
-<div class="main" data-img-url="img/portfolio/1.jpg"></div>
+<div class="main" data-img-url="img/portfolio/10.jpg"></div>
 </div>
 <div class="details">
 <span>Game</span>
