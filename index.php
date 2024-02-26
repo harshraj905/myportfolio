@@ -145,7 +145,7 @@
 </li>
 <li>
 <span>Email:</span>
-<span><a class="line_effect" href="#"><span class="__cf_email__" data-cfemail="7900160c0b14181015391e14181015571a1614">shivamraj8378@gmail</span></a></span>
+<span><a class="line_effect" href="#"><span class="__cf_email__" data-cfemail="7900160c0b14181015391e14181015571a1614">harshrajconnects@gmail.com</span></a></span>
 </li>
 <li>
 <span>Phone:</span>
@@ -771,7 +771,7 @@
 <span>Email:</span>
 <span><a class="line_effect" href="mailto:shivamraj8378@gmail.com?subject=We Want To Hire You.&body=Dear Harsh,
 
-            I hope this email finds you well. I have come across your impressive portfolio on [Platform Name/Website], and I am thoroughly impressed by your skills and expertise in [relevant skills/industry]. I believe your talents align perfectly with a project we have at [Your Company Name], and I would like to discuss a potential freelance collaboration."><span class="__cf_email__" data-cfemail="bec7d1cbccd3dfd7d2fed9d3dfd7d290ddd1d3">shivamraj8378@gmail.com</span></a></span>
+            I hope this email finds you well. I have come across your impressive portfolio on [Platform Name/Website], and I am thoroughly impressed by your skills and expertise in [relevant skills/industry]. I believe your talents align perfectly with a project we have at [Your Company Name], and I would like to discuss a potential freelance collaboration."><span class="__cf_email__" data-cfemail="bec7d1cbccd3dfd7d2fed9d3dfd7d290ddd1d3">harshrajconnects@gmail.com</span></a></span>
 </li>
 <li>
 <span>Phone:</span>

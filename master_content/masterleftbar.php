@@ -18,8 +18,8 @@
                     <span class="online-icon position-absolute end-0"><i class="mdi mdi-record text-success"></i></span>
                 </div>
                 <div class="media-body ms-2 user-detail align-self-center">
-                    <h5 class="font-14 m-0 fw-bold">AKriti </h5>  
-                    <p class="opacity-50 mb-0">akriti2003@gmail.com</p>          
+                    <h5 class="font-14 m-0 fw-bold">Harsh Raj </h5>  
+                    <p class="opacity-50 mb-0">harshrajconnects@gmail.com</p>          
                 </div>                    
             </div>
             <div class="border-end">
@@ -525,7 +525,7 @@
                                 <div class="update-msg text-center position-relative">
                                     <button type="button" class="btn-close position-absolute end-0 me-2" aria-label="Close"></button>
                                     <img src="modules/dashboard/assets/images/speaker-light.png" alt="" class="" height="110">
-                                    <h5 class="mt-0">Akriti</h5>
+                                    <h5 class="mt-0">Harsh</h5>
                                     <p class="mb-3">We Design and Develop Clean and High Quality Web Applications</p>
                                     <a href="javascript: void(0);" class="btn btn-outline-warning btn-sm">Upgrade your plan</a>
                                 </div>
